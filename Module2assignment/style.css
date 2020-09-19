@@ -13,7 +13,7 @@ h1{
 	margin-bottom: 20px;
 	font-size: 50px;
 	text-decoration: underline;
-	text-shadow: 2px 2px 8px #03fcf4;
+	
 }
 
 .row{
@@ -22,7 +22,7 @@ h1{
 }
 
 .container{
-	padding: 20px;
+	padding: 10px;
 	margin-bottom: 10px;
 	margin-top: 10px;
 	margin-left: auto;
@@ -42,7 +42,7 @@ section > div{
 	text-align: center;
 	margin-left: 60%;
 	width: 40%;
-	padding: 3px;
+	padding: 1px;
 	margin-top: 0;
 	margin-bottom: 0;
 	background-color: #0BFFC2;
